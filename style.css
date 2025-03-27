@@ -1,0 +1,178 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+.lightMode {
+    background-color: white;
+    color: black;
+}
+.button-c{
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250  , 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-parentese1 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-parentese2 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-barra1 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-7 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-8 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-9 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+     text-align: center;
+}
+.button-asterisco1 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-4 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-5 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-6 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-- {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-1 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-2 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-3 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-mais1 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-0 {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-ponto1{
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-mod {
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.button-igual1{
+    border: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(109, 250, 74, 0.541);
+    padding: 15px 32px;
+    text-align: center;
+}
+.calculadora {
+    text-align: center;
+}
